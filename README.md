@@ -1,4 +1,8 @@
-My name is Aladeloye Adewale Samuel.
+# My name is Aladeloye Adewale Samuel.
+<a href="https://www.linkedin.com/in/adewalealadeloye/" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30">
+    Connect with me on LinkedIn
+</a>
 
 I am a passionate Information Technology professional with a growing specialization in Cybersecurity. My journey began as a certified Oracle Expert and Oracle Certified Associate, where I gained experience in Linux applications and database management using SQL.
 
