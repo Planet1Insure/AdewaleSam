@@ -1,4 +1,4 @@
-# My name is Aladeloye Adewale Samuel.
+# Aladeloye Adewale Samuel.
 
 
 I am a passionate Information Technology professional with a growing specialization in Cybersecurity. My journey began as a certified Oracle Expert and Oracle Certified Associate, where I gained experience in Linux applications and database management using SQL.
