@@ -13,6 +13,20 @@ I recently earned the Google Cybersecurity Professional Certificate, where I gai
 
 I have documented screenshots of hands-on cybersecurity tasks I completed during this certification, which are available in this portfolio.
 
+<img width="719" alt="Screenshot 2025-03-04 at 05 14 50" src="https://github.com/user-attachments/assets/562ef3fe-c620-444c-81c7-aa68e4f4dae6" />
+
+<img width="628" alt="Screenshot 2025-02-25 at 16 54 04" src="https://github.com/user-attachments/assets/a7f2698b-483e-4fd4-a76c-e51cb7a3be92" /> 
+
+<img width="721" alt="Screenshot 2025-02-26 at 16 47 02" src="https://github.com/user-attachments/assets/172a4d9f-4c41-43d4-83db-7edae960be1f" />
+
+
+<img width="644" alt="Screenshot 2025-02-28 at 07 16 56" src="https://github.com/user-attachments/assets/eb5e72a7-5422-4f67-bc6d-c61aeafc06f1" />
+
+<img width="623" alt="Screenshot 2025-02-25 at 16 53 19" src="https://github.com/user-attachments/assets/25be2b09-c54a-48b9-9c13-aa3e868f096f" />
+
+<img width="710" alt="Screenshot 2025-02-28 at 07 16 01" src="https://github.com/user-attachments/assets/4989e1c0-03df-4a51-afb7-94dcda6312d8" />
+
+
 Continuous Learning & Community Engagement
 
 To deepen my expertise, I am actively engaged in the TryHackMe platform, where I complete real-world cybersecurity challenges while collaborating with like-minded security professionals. Screenshots of my completed tasks are also included in this portfolio.
