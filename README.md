@@ -12,6 +12,7 @@ I recently earned the Google Cybersecurity Professional Certificate, where I gai
 ✅ Linux administration
 ✅ SQL & Python for security applications
 ✅ Log analysis using Wireshark, SIEM, and Splunk
+✅ NIST Framework
 
 I have documented screenshots of hands-on cybersecurity tasks I completed during this certification, which are available in this portfolio.
 
